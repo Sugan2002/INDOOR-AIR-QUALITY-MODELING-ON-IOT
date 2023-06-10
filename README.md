@@ -5,7 +5,7 @@ The purpose of this report is to provide an overview of indoor air quality (IAQ)
 The objective of this project a real-time model to monitor and control the indoor air quality.
 
 ## Abstract
-In this work, a novel method is implemented using sensor fusion to make a quick and efficient response in air quality control using inlet flow control of air through a filtered channel.
+In this project, an IoT-based system is developed to model indoor air quality (IAQ). The system utilizes IoT sensors to collect real-time data on IAQ parameters such as temperature, humidity, carbon dioxide levels, and volatile organic compounds. Advanced data analysis techniques are applied to gain insights into IAQ patterns and identify potential issues. The project aims to improve IAQ monitoring and management practices, leading to healthier indoor environments. The system includes IoT sensor deployment, data acquisition, data analysis algorithms, and a user-friendly interface for data visualization. The project outcomes contribute to better understanding IAQ dynamics and enhancing IAQ management practices for improved health and comfort.
 
 ## Methodology
 
