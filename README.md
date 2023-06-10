@@ -42,7 +42,7 @@ In this work, a novel method is implemented using sensor fusion to make a quick 
 
 ## Project Architecture
 
-![WhatsApp Image 2023-06-10 at 09 58 28](https://github.com/Sugan2002/INDOOR-AIR-QUALITY-MODELING-ON-IOT/assets/77089743/3232f570-2fa3-48c4-96ed-b5c2799094d2)
+![WhatsApp Image 2023-06-10 at 10 04 09](https://github.com/Sugan2002/INDOOR-AIR-QUALITY-MODELING-ON-IOT/assets/77089743/b8bfa9b7-e125-4034-91d8-b55c4dac1405)
 
 ## Output
 
