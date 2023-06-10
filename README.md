@@ -42,14 +42,11 @@ In this work, a novel method is implemented using sensor fusion to make a quick 
 
 ## Project Architecture
 
-![1](https://github.com/Gowri4622/INDOOR-AIR-QUALITY-MODELING-BASED-ON-IoT/assets/75235455/31d706ed-a124-42b0-bf93-a34ff3906f05)
+![WhatsApp Image 2023-06-10 at 09 58 28](https://github.com/Sugan2002/INDOOR-AIR-QUALITY-MODELING-ON-IOT/assets/77089743/3232f570-2fa3-48c4-96ed-b5c2799094d2)
 
 ## Output
 
-
 ![Screenshot 2023-05-29 142903](https://github.com/Gowri4622/INDOOR-AIR-QUALITY-MODELING-BASED-ON-IoT/assets/75235455/a5bd650e-2802-4a60-bfd6-36e6c796f4e1)
-
-
 
 ## Result
 The integration of sensors with IoT system was implemented and the output data has been collected and validated through the system. Thus an intelligent algorithm to model the IAQ based on industry standards was developed and the results through standard test cases are tested and validated.
